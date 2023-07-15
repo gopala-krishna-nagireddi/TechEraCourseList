@@ -1,0 +1,15 @@
+.course-item {
+  width: 20%;
+  margin-bottom: 50px;
+}
+
+.link-item {
+  text-decoration: none;
+  display: flex;
+}
+
+.course-name {
+  color: #1e293b;
+  font-weight: 600;
+  margin-left: 20px;
+}

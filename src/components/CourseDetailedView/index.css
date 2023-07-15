@@ -1,0 +1,65 @@
+.course-body-container {
+  height: 87vh;
+  padding: 100px;
+}
+
+.course-detailed-container {
+  display: flex;
+  box-shadow: 0px 4px 16px 0px #e8e8e8;
+}
+
+.course-img {
+  width: 350px;
+}
+
+.course-description-container {
+  padding: 10px 30px;
+}
+
+.description {
+  color: #475569;
+  font-size: 22px;
+  line-height: 2;
+}
+
+.loader-container {
+  height: 87vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-view-container {
+  height: 87vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.faillure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.failure-img {
+  width: 350px;
+}
+
+.failure-heading {
+  color: #1e293b;
+}
+
+.failure-note {
+  color: #475569;
+}
+
+.retry-btn {
+  color: #ffffff;
+  background-color: #4656a1;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  outline: none;
+  cursor: pointer;
+}
